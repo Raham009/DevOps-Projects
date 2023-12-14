@@ -27,5 +27,5 @@ phases:
 artifacts:
   files:
     - '**/*'
-  base-directory: ../AWS-CICD-Project
+  base-directory: AWS-CICD-Project
 
