@@ -24,8 +24,8 @@ phases:
   post_build:
     commands:
       - echo "Build completed successfully!"
-artifacts:
-  files:
-    - '**/*'
-  base-directory: AWS-CICD-Project
+#artifacts:
+#  files:
+#    - '**/*'
+#  base-directory: AWS-CICD-Project
 
